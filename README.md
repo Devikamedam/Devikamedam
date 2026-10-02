@@ -1,10 +1,15 @@
 # Hi, I'm Devika Medam 👋
 
-## Cloud & DevOps Engineer | AWS | Automation | CI/CD
+## Cloud & DevOps Engineer | AWS | Infrastructure Automation | CI/CD
 
-Cloud & DevOps Engineer with a strong background in application development, cloud infrastructure, automation, monitoring, and highly available AWS architectures.
+Cloud & DevOps focused engineer with a background in application development,
+building hands-on solutions across cloud architecture, infrastructure automation,
+CI/CD, monitoring, security, and highly available AWS environments.
 
-I focus on designing, deploying, automating, monitoring, and troubleshooting secure and scalable cloud environments.
+### Core Technologies
+
+AWS • Azure • Terraform • Docker • Kubernetes • Jenkins • GitHub Actions
+Python • Linux • Prometheus • Grafana • CloudWatch • Git
 
 ---
 
