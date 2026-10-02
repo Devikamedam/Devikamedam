@@ -8,14 +8,13 @@ CI/CD, monitoring, security, and highly available AWS environments.
 
 ### Core Technologies
 
-AWS • Azure • Terraform • Docker • Kubernetes • Jenkins • GitHub Actions
-Python • Linux • Prometheus • Grafana • CloudWatch • Git
+AWS • Azure • Terraform • Docker • Kubernetes • Jenkins • GitHub Actions • Python • Linux • Git • GitHub • Prometheus • Grafana • CloudWatch
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-- **Cloud:** AWS, Azure, GCP
+- **Cloud:** AWS, Azure
 - **AWS:** EC2, VPC, IAM, S3, RDS, Lambda, ALB, Auto Scaling, Route 53, CloudFront, CloudWatch, SNS, SQS, EventBridge
 - **Infrastructure as Code:** Terraform
 - **Containers & Orchestration:** Docker, Kubernetes
